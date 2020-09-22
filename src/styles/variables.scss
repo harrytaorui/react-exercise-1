@@ -17,4 +17,6 @@ $base-margin: 20px;
 .image-size {
   width: 150px;
   height: 150px;
+  border-radius: 50%;
+  transform:translateY(-70px);
 }
